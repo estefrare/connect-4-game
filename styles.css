@@ -34,6 +34,7 @@ body {
   margin: 10px;
   background-color: #F1F1F1;
   box-shadow: inset 4px 4px 5px 0px rgba(0,0,0,0.43);
+  cursor: pointer;
 }
 
 .piece {
