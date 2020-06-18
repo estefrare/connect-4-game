@@ -62,3 +62,21 @@ body {
   border-bottom-right-radius: 10px;
   box-shadow: 1px 2px 5px 0px rgba(0,0,0,0.41);
 }
+
+.arrows {
+  display: flex;
+  justify-content: space-around;
+  width: 700px;
+}
+
+.arrow {
+  width: 0; 
+  height: 0; 
+  border-top: 30px solid transparent;
+  border-left: 30px solid transparent;
+  border-right: 30px solid transparent;
+  border-bottom: 5px solid transparent;
+}
+
+.resetButton {
+}
